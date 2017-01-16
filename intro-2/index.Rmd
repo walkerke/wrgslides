@@ -1,0 +1,248 @@
+---
+title: "Regions in Global Context"
+subtitle: ""
+date: "January 23, 2017"
+author: "GEOG 10003"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+## Geography and perspective
+
+* Any sort of geographical representation of the world involves some distortion of reality
+
+* Key concepts: **projection**, **scale**, & **space as social construct**
+
+---
+
+## Map projections
+
+* The world is three-dimensional; however, to visualize it, we often have to create two-dimensional displays
+
+* Such representations require ***projection***
+
+---
+
+## Mercator projection (conformal)
+
+<center><img src=assets/img/mercator.jpg style="width: 600px;" /></center>
+
+<span class="footnote">Source: davidrumsey.com</span>
+
+---
+
+## Gall-Peters projection (equal-area)
+
+<center><img src=assets/img/peters.jpg style="width: 700px;" /></center>
+
+<span class="footnote">Source: skyscrapercity.com</span>
+
+---
+
+## The actual size of Africa
+
+<center><img src=assets/img/africa.gif style="width: 550px;" /></center>
+
+<span class="footnote">Source: *The Economist*</span>
+
+---
+
+## [Thanks, Google...](http://maps.google.com)
+
+<center><img src=assets/img/google-map.jpg style="width: 650px;" /></center>
+
+
+---
+
+## Map projections and perspective
+
+<center><img src=assets/img/hobo-dyer.jpg style="width: 650px;" /></center>
+
+.footnote[Source: flourish.org]
+
+---
+
+## Scale
+
+* Scale (in cartography) refers to the relationship between what we see on a map and what exists in the real world
+
+* Example: representative fraction (e.g., 1:24,000)
+
+* Geography, more broadly: the extent at which an issue is framed/discussed
+
+---
+
+## How scale influences what we "see"
+
+* Example: [Poverty map from _The New York Times_](http://www.nytimes.com/newsgraphics/2014/01/05/poverty-map/?ref=business")
+
+---
+
+## The social construction of space
+
+* While the world may be *physically* the same for all of us, we each experience it differently
+
+* Geographic theorists call this the distinction between *absolute* and *relational* space
+
+* Example: Dallas and Fort Worth
+
+---
+
+## So how is this significant for world regional geography? 
+
+<br></br>
+* Old-school regional mapping exercise - with pen and paper!
+
+---
+
+## World "realms" (from your textbook)
+
+<center><img src=assets/img/regions/realms.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+---
+
+## Criteria for realms (from your textbook)
+
+* Physical and human 
+
+* Functional
+
+* Historical
+
+---
+
+## Criteria for regions (from your textbook)
+
+* Area
+
+* Boundaries
+
+* Location
+
+* Homogeneity
+
+* Regions as systems
+
+---
+
+## What defines a region? (from your textbook)
+
+* Physical setting
+
+* Population
+
+* Culture
+
+* Political geography
+
+* Economics & development
+
+---
+
+## Physical setting: geology
+
+<center><img src=assets/img/regions/geology.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+---
+
+## Physical setting: climate
+
+<center><img src=assets/img/regions/climate.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+ 
+
+---
+
+## Population
+
+<center><img src=assets/img/regions/population.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+---
+
+## World population projections
+
+<iframe src="pages/global.html" width="825" height="500" frameborder = "0"></iframe>
+
+---
+
+## Projections by region
+
+<iframe src="pages/regions.html" width="825" height="500"  frameborder = "0"></iframe>
+
+---
+
+## Culture: language
+
+<center><img src=assets/img/regions/language.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+---
+
+## Culture: religion
+
+<center><img src=assets/img/regions/religion.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+---
+
+## Politics: the *state*
+
+<iframe src="http://walkerke.github.io/atlas" width="825" height="500"></iframe>
+
+---
+
+## Politics: the *nation*
+
+<center><img src=assets/img/europe-stateless-nation.gif style="width: 495px;" /></center>
+
+<span class="footnote">Source: [Eurominority](http://www.eurominority.eu/version/maps/map-nations.asp)</span>
+
+
+---
+
+## The "nation-state"
+
+<iframe width="800" height="475" src="https://www.youtube.com/embed/3V2JO24e9P8" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Economics and development
+
+### Terms used to describe geography of global development: 
+
+* First world/third world
+
+* Core/periphery
+
+* Global North/Global South
+
+* Developed/developing world
+
+---
+
+## Economics and development
+
+<center><img src=assets/img/regions/gdp-cartogram.jpg style="width: 750px;" alt = "Copyrighted image"></center>
+
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #035004; 
+}
+
+a {
+  color: #1a730f; 
+}
+
+.inverse {
+  background-color: #035004; 
+
+}
+</style>
+
+
+
+
