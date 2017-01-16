@@ -1,0 +1,189 @@
+---
+title: "Introduction to World Regional Geography"
+subtitle: ""
+date: "January 18, 2017"
+author: "GEOG 10003"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Course introduction
+
+### **Share with your colleagues (I'll be making the rounds):**
+* Where are you from?  
+
+* Why are you taking this course?
+
+* What do you hope to get out of this semester?  
+
+---
+
+## So what is this course about?  
+
+### **TCU catalog:** 
+"A survey of the world's primary regions and the human and physical geography that shape them. Interactions between natural environment, cultural geography, geopolitics, history, land use, and economic geography are highlighted."
+
+### **Translated:** 
+This course is a forum for us to discuss and engage with the most important global issues of the day!  
+
+---
+
+## Housekeeping
+
+* Content management system: __TCU Online__
+
+-- TCU Online can be accessed via [MyTCU](http://my.tcu.edu) or http://d2l.tcu.edu  
+-- All course affairs will be managed through TCU Online
+ 
+* Syllabus review and course expectations
+
+---
+
+## Course resources
+
+### Textbooks: 
+    
+* [_Geography: Realms, Regions, and Concepts (16th edition_)](https://www.amazon.com/Geography-Realms-Regions-Concepts-16th/dp/1118673956/ref=mt_hardcover?_encoding=UTF8&me=)
+
+* [_Navigating the World with GIS_](https://he.kendallhunt.com/product/navigating-world-gis-companion-world-regional-geography)
+
+---
+
+## Any questions? 
+
+* The floor is yours before we move onward...
+
+---
+
+## Introduction to geography
+
+* Discuss with your colleagues: what is *geography*, exactly?  
+
+---
+
+## The three "W's" of geography
+
+* What is where?
+
+* Why is it there?  
+
+* Why do I care?  
+
+### In short: geographers are understanding *why* the world is organized the way it is, and what the implications are for society, politics, religion, environment, climate, etc...
+
+---
+
+## What do geographers study?
+
+Lots of things...
+
+---
+
+## Impacts of climate variability (NOAA)
+
+[Link to sea level trends from NOAA](http://tidesandcurrents.noaa.gov/sltrends/)
+
+---
+
+## Deforestation
+
+Credit: NASA Goddard's Scientific Visualization Studio
+
+<center><iframe width="700" height="450" src="https://www.youtube.com/embed/6AVkjJKK3iE" frameborder="0" allowfullscreen></iframe></center>
+
+---
+
+## Global migration flows
+
+[Link to "Peoplemovin" application](http://peoplemov.in/)
+
+---
+
+## Politics - [DFW Election Dot Map](http://personal.tcu.edu/kylewalker/maps/dfw_election.html)
+
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="http://personal.tcu.edu/kylewalker/maps/dfw_election.html"</iframe>
+
+---
+
+## Business analytics
+
+[Esri's Business Analyst Online application](https://bao.arcgis.com/app.html)
+
+---
+
+## Social media - sentiment analysis
+
+<!-- [Mapping Basketball Nation - The Upshot/New York Times](http://www.nytimes.com/interactive/2014/05/12/upshot/basketball-map.html)
+-->
+
+* _New York Times_ college football fan map: http://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html?_r=0
+
+---
+
+## Global health
+
+* Nigeria profile from the Institute for Health Metrics and Evaluation at the University of Washington: http://vizhub.healthdata.org/health-map/nigeria
+
+---
+
+## How can all of this be geography? 
+
+### Unifying theme: all these topics concern the geographic distribution of some phenomena on the Earth
+
+### Major sub-disciplines:
+
+* Human/cultural geography
+
+* Physical geography
+
+* Society/environment relations
+
+* Geospatial technology/geographic information science
+
+---
+
+## Major approaches to the study of geography
+
+* Qualitative methods (e.g. ethnography, document analysis)
+
+* Quantitative methods (e.g. statistics, data visualization)
+
+* Mapping & geospatial science
+
+---
+
+## Why does all this matter to us?  
+
+* Course goal: to use a geographic perspective to help us understand some of the most pressing global issues
+
+* We'll accomplish this by studying major themes (urbanization, disease, environmental degradation) in the context of the world's major regions
+
+
+<style>
+
+h1, h2, h3 {
+  color: #035004; 
+}
+
+a {
+  color: #1a730f; 
+}
+
+.inverse {
+  background-color: #035004; 
+
+}
+</style>
+
+
+
+
+
+
+
